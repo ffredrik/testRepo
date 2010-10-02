@@ -10,5 +10,9 @@ require_once('functions.php');
 <?php
 hello();
 ?>
+	<form>
+		<label for="name">Name</label>
+		<input type="text" name="name" value="Your name here" />
+	</form>
 </body>
 </html>
