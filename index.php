@@ -9,6 +9,7 @@ require_once('functions.php');
 	<h1>Git rocks!</h1>
 <?php
 hello();
+echo phpinfo();
 ?>
 	<form>
 		<label for="name">Name</label>
