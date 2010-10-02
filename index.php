@@ -6,5 +6,8 @@ require_once('functions.php');
 </head>
 <body>
 	<h1>Git rocks!</h1>
+<?php
+hello();
+?>
 </body>
 </html>
